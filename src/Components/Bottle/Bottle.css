@@ -1,0 +1,15 @@
+.bottle{
+    border: 3px solid teal;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: lightblue;
+   
+}
+img{
+    max-width: 250px;
+}
+.btn{
+    background-color: rgb(100, 30, 100);
+    color: white;
+}
